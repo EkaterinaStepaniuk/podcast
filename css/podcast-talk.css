@@ -1,0 +1,134 @@
+.podcast-talk {
+    height: 1375px;
+}
+.podcast-talk-title {
+    width: 860px;
+    height: 142px;
+    margin-top: 140px;
+    margin-left: 353px;
+    font-weight: 700;
+    font-size: 59.3px;
+    line-height: 71.16px;
+    text-align: center;
+}
+.podcast-talk-conteiner1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 100px;
+}
+.card-one {
+    display: grid;
+    width: 472px;
+    height: 367px;
+}
+.card-one-ilustration {
+    width: 275px;
+    height: 275px;
+    margin-left: 98px;
+}
+.card-one-text {
+    width: 472px;
+    height: 52px;
+    margin-top: 40px;
+    margin-left: 0px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: center; 
+}
+.card-two {
+    width: 472px;
+    height: 367px;
+    margin-left: 216px;
+}
+.card-two-ilustration {
+    width: 275px;
+    height: 275px;
+    margin-left: 99px;
+}
+.card-two-text {
+    width: 472px;
+    height: 52px;
+    margin-top: 40px;
+    margin-left: 0px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: center; 
+}
+.podcast-talk-conteiner2 {
+    background: #F7EDE8;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 120px;
+    display: grid;
+    height: 366px;
+}
+.podcast-talk-conteiner2-sap {
+    width: 48px;
+    height: 96px;
+    margin-top: 40px;
+    margin-left: 556px;
+    font-weight: 700;
+    font-size: 95.95px;
+    line-height: 95.95px;
+    text-align: center; 
+    color: #CD4631;
+}
+.podcast-talk-conteiner2-text {
+    height: 102px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0;
+    font-weight: 700;
+    font-size: 36.65px;
+    line-height: 51.31px;
+    text-align: center; 
+}
+.podcast-talk-conteiner2-author {
+width: 389px;
+height: 48px;
+margin-left: 362px;
+margin-top: 40px;
+display: flex;
+}
+.podcast-talk-conteiner2-avatar {
+    width: 48px;
+    height: 48px;
+    left: 0;
+
+}
+.podcast-talk-conteiner2-name {
+    width: 85px;
+    height: 22px;
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-top: 13px;
+}
+.podcast-talk-conteiner2-logo {
+    width: 236px;
+    height: 22px;
+    margin-left: 10px;
+    margin-top: 13px;
+}
+.conteiner2-abstracst1 {
+    position: absolute;
+    margin-top: 197px;
+    margin-left: -60px;
+}
+.conteiner2-abstract2 {
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 1060px;
+}
+.conteiner2-abstract3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin-left: 505px;
+    margin-top: 560px;
+}

@@ -1,0 +1,132 @@
+.podcast-header {
+    display: flex;   
+   flex-direction: column;
+   background: #F7EDE8;
+}
+.podcast-header-row{
+    display: flex; 
+}
+.podcast-title {
+    width: 513px;
+    height: 192px;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+    color: black;
+    margin-left: 138px;
+    margin-top: 64px;
+}
+.podcast-header-text {
+    width: 374px;
+    height: 52px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: center;
+    color: black;
+    margin-left: 207px;
+    margin-top: 64px; 
+}
+.button-podcast {
+    width: 184px;
+    height: 65px;
+    padding: 24px 48px 24px 48px;
+    border-radius: 8px;
+    border: 2px solid #000;
+    background-color: #F7EDE8;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17.07px;
+    margin-left: 302px;
+}
+.button-podcast:hover{
+    width: 184px;
+    height: 65px;
+    border-radius: 8px;
+    padding: 24px 48px 24px 48px;
+    border: 2px solid #000;
+    background-color: #000;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17.07px;
+    box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.podcast-abstarct2 {
+    width: 155.3px;
+    height: 216.08px;
+    margin-top: 137px;
+    margin-left: 258px;
+}
+.color-text{
+    color: #CD4631;
+}
+.podcast-header-column{
+
+    display: grid;
+}
+.slider {
+    height: 373px;
+}
+
+.slider_img {
+    width: 373px;
+    height: 373px;
+}
+.podcast-heder-buttom {
+display: grid;
+}
+.podcast-header-info {
+    margin-top: 120px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.line-one {
+border: 1.5px solid #4D4D4D;
+top: 0;
+}
+.buttom-row {
+margin-top: 0;
+display: flex;
+justify-content: space-between;
+}
+.podcast-header-buttom-text {
+    width: 163px;
+    height: 32px;
+    margin-top: 46px;
+    font-weight: 700;
+    font-style: 22.65px;
+    line-height: 31.71px;
+}
+.buttom-img1 {
+    margin-top: 45px;
+    margin-left: 205.5px;
+    width: 128px;
+    height: 34px;
+}
+.buttom-img2 {
+    margin-top: 44px;
+    margin-left: 132px;
+    width: 198px;
+    height: 36px;
+}
+.buttom-img3 {
+    margin-top: 48px;
+    margin-left: 114px;
+    width: 124px;
+    height: 28px;
+    margin-right: 75.5px;
+}
+.line-two {
+    border: 1.5px solid #4D4D4D;
+    margin-top: 40px;
+    margin-bottom: 140px;
+}
+.buttom-abstract{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-top: 310px;
+    left: 645px;
+}

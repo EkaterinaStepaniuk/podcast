@@ -1,0 +1,119 @@
+.memember {
+    height: 1153px;
+    background: #FFFFFF;
+}
+.memember-abstract {
+    position: absolute;
+    margin-top: -75px;
+    margin-left: 645px;
+}
+.memember-abstract2 {
+    margin-top: 0;
+    margin-left: 935px;
+    width: 240px;
+    height: 240px;
+    position: absolute;
+}
+.memember-texts {
+    width: 682px;
+    height: 127px;
+    padding-top: 127px;
+    margin-left: 389px;
+    position: relative;
+}
+.memember-title {
+    width: 682px;
+    height: 71px;
+    font-weight: 700;
+    font-size: 59.3px;
+    line-height: 71.16px;
+    text-align: center;
+}
+.memember-text {
+    width: 473px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 22.65px;
+    line-height: 36.24px;
+    text-align: center;
+    color: #4D4D4D;
+    margin-left: 94.5px;
+    margin-top: 20px;
+}
+.cards-row-one {
+    margin-top: 227px;
+    height: 202px;
+    margin-left: 140px;
+    margin-right: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.memember-card {
+    left: 0;
+    width: 373px;
+    height: 202px;
+    margin-right: 20px;
+}
+.memember-abstract-card {
+    margin-left: 147.5px;
+    width: 78px;
+    height: 78px;
+    top: 0;
+}
+.card-title {
+    width: 373px;
+    height: 32px;
+    font-weight: 700;
+    font-size: 22.65px;
+    line-height: 31.71px;
+    text-align: center;
+    margin-top: 30px;
+    left: 0;
+}
+.card-text {
+    width: 338px;
+    height: 52px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 17.5px;
+}
+.cards-row-two {
+    margin-top: 80px;
+    height: 202px;
+    margin-left: 140px;
+    margin-right: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.button-memember {
+    height: 62px;
+    margin-top: 100px;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    padding: 20px 36px 20px 36px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22.4px;
+    color: #000000;
+    margin-left: 635px;
+}
+.button-memember:hover {
+    height: 62px;
+    margin-top: 100px;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    padding: 20px 36px 20px 36px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22.4px;
+    color: #FFFFFF;
+    background-color: #000000;
+    box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.memember-abstract3 {
+    margin-left: 645px;
+    margin-top: 66px;
+}

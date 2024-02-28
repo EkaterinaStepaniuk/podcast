@@ -1,0 +1,185 @@
+.recent-episodes {
+    height: 1456px;
+    background: #F7EDE8;
+}
+.recent-episodes-texts {
+    width: 550px;
+    height: 127px;
+    padding-top: 140px;
+    margin-left: 471px;
+}
+.recent-episodes-tittle {
+    width: 530px;
+    height: 71px;
+    font-weight: 700;
+    font-size: 59.3px;
+    line-height: 71.16px;
+    text-align: center;
+    left: 0;
+}
+.recent-episodes-text {
+    width: 409px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 22.65px;
+    line-height: 36.24px;
+    text-align: center;
+    color: #4D4D4D;
+    margin-left: 44.5px;
+    margin-top: 20px;
+}
+.recent-episodes-abstract1 {
+    width: 240px;
+    height: 240px;
+    margin-left: 1230px;
+    margin-top: 80px;
+    position: absolute;
+}
+.recent-episodes-card {
+    width: 570px;
+    height: 249px;
+    border-radius: 12px;
+    border: 2px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 20px;
+}
+.recent-episodes-card:hover {
+    width: 570px;
+    height: 249px;
+    border-radius: 12px;
+    border: 2px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    box-shadow: 10px 10px 0px 0px rgba(129, 173, 200, 1);
+}
+.recent-episodes-card-img {
+    position: absolute;
+    width: 166px;
+    height: 166px;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+.episodes-text {
+    width: 352px;
+    height: 62px;
+    margin-left: 202px;
+    margin-top: 33.5px;
+}
+.episodes-text-title1 {
+    width: 50px;
+    height: 26px;
+    margin-left: 0px;
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25.6px;
+    color: #CD4631;
+}
+.episodes-text-title2 {
+    width: 400px;
+    height: 32px;
+    margin-left: 0px;
+    margin-top: 4px;
+    font-weight: 700;
+    font-size: 22.65px;
+    line-height: 31.71px;
+    color: #CD4631;
+}
+.line-episodes {
+    border: 0.5px solid #4D4D4D;
+    margin-left: 202px;
+    margin-right: 16px;
+}
+.episodes-card-text {
+    width: 352px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-left: 202px;
+    margin-top: 10px;
+    color: #4D4D4D;
+}
+.card-buttom {
+    display: flex;
+}
+.card-buttom-hesh {
+    display: flex;
+    height: 31px;
+    margin-top: 37.5px;
+}
+.rectangke-hesh1 {
+    width: 71px;
+    height: 31px;
+    border-radius: 4px;
+    border: 1px solid #4D4D4D;
+    padding: 6px 12px 6px 12px;
+    gap: 10px;
+    margin-left: 16px;
+}
+.rectangle-hesh1-text {
+    width: 49px;
+    height: 19px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 19.2px;
+    color: #4D4D4D;
+}
+.rectangke-hesh2 {
+    width: 65px;
+    height: 31px;
+    border-radius: 4px;
+    border: 1px solid #4D4D4D;
+    padding: 6px 12px 6px 12px;
+    gap: 10px;
+    margin-left: 6px;
+}
+.rectangle-hesh2-text {
+    width: 41px;
+    height: 19px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 19.2px;
+    color: #4D4D4D;
+}
+.buttom-sylka {
+    width: 68px;
+    height: 19px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 19.2px;
+    color: #4D4D4D;
+    margin-left: 271px;
+    margin-top: 39.5px;
+}
+.card-buttom-img {
+    width: 46px;
+    height: 26px;
+    margin-left: 10px;
+    margin-top: 39.5px;
+}
+.recente-episodes-row{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 20px;
+    margin-top: 227px;
+}
+.recente-episodes-row1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.recent-episodes-abstract{
+    position: absolute;
+    margin-top: 228px;
+    width: 150px;
+    height: 150px;
+    margin-left: -235px
+}

@@ -1,0 +1,238 @@
+.sponsor {
+    height: 1176px;
+}
+.sponsor-img1 {
+    width: 120px;
+    height: 120px;
+    margin-left: 370px;
+    margin-top: -63px;
+    position: absolute;
+}
+.sponsor-img2{
+    width: 200px;
+    height: 200px;
+    margin-left: 1190px;
+    margin-top: 127px;
+    position: absolute;
+}
+.sponsor-texts {
+    width: 700px;
+    height: 127px;
+    margin-left: 409px;
+    margin-top: 140px;
+}
+.sponsor-text-title {
+    width: 700px;
+    height: 71px;
+    font-weight: 700;
+    font-size: 59.3px;
+    line-height: 71.16px;
+    text-align: center;
+}
+.sponsor-text {
+    width: 466px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 22.65px;
+    line-height: 36.24px;
+    text-align: center;
+    color: #4D4D4D;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.sponsor-row {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.sponsor-cards {
+    width: 373px;
+    height: 689px;
+    margin-top: 100px;
+}
+.sponsor-card-one {
+    width: 373px;
+    height: 357px;
+    border-radius: 8px;
+    border: 1.5px solid #000000;
+}
+
+.sponsor-card-one--title {
+    width: 167px;
+    height: 51px;
+    font-weight: 700;
+    font-size: 36.65px;
+    line-height: 51.31px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.sponsor-card-one-text {
+    width: 292px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #4D4D4D;
+}
+.sponsor-card-buttom-row {
+    width: 293px;
+    height: 62px;
+    margin-top: 90px;
+    margin-left: 40px;
+    display: flex;
+}
+.sponsor-btn {
+    width: 160px;
+    height: 62px;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    padding: 20px 36px 20px 36px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22.4px;
+}
+.sponsor-btn:hover {
+    width: 160px;
+    height: 62px;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    padding: 20px 36px 20px 36px;
+    color: #FFF;
+    background: #000000;
+}
+.sponsor-money {
+    width: 62px;
+    height: 53px;
+    color: #CD4631;
+    font-weight: 700;
+    font-size: 22.65px;
+    line-height: 31.71px;
+    margin-left: 71px;
+    margin-top: 4.5px;
+    display: grid;
+}
+.sponsor-money-span{
+    width: 62px;
+    height: 53px;
+    color: #4D4D4D;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22.4px;
+}
+.sponsor-card-two {
+    width: 373px;
+    height: 312px;
+    border-radius: 8px;
+    border: 1.5px solid #000000;
+    margin-top: 20px;
+}
+.sponsor-card-two-title {
+    color: #4D4D4D;
+    width: 293px;
+    height: 22px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.sponsor-card-two-text {
+    color: #000000;
+    width: 293px;
+    height: 26px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25.6px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.sponsor-card-two-text-highlighted{
+    line-height: 25.6px;
+    font-weight: 700;
+}
+.sponsor-card-two2 {
+    width: 373px;
+    height: 357px;
+    border-radius: 8px;
+    border: 1.5px solid #CD4631;
+    background: #F7EDE8;
+}
+.sponsor-card-two2-title {
+    width: 167px;
+    height: 51px;
+    font-weight: 700;
+    font-size: 36.65px;
+    line-height: 51.31px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.sponsor-card-two2-text {
+    width: 292px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #4D4D4D;
+}
+
+.sponsor-card-two-two {
+    width: 373px;
+    height: 312px;
+    border-radius: 8px;
+    border: 1.5px solid #CD4631;
+    background: #F7EDE8;
+    margin-top: 20px;
+}
+.sponsor-card-two-two-title {
+    color: #4D4D4D;
+    width: 293px;
+    height: 22px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22.4px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.sponsor-card-two-two-text {
+    color: #000000;
+    width: 293px;
+    height: 26px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25.6px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.family-sale {
+    width: 123px;
+    height: 25px;
+    border-radius: 4px;
+    border: 1px solid #CD4631;
+    padding: 3px 6px 3px 6px;
+    font-weight: 700;
+    color: #FFF;
+    font-size: 12px;
+    line-height: 19.2px;
+    background: #CD4631;
+    margin-top: 13px;
+    margin-left: 42px;
+    position: absolute;
+}
+.sponsor-img3 {
+    width: 120px;
+    height: 120px;
+    margin-left: 70px;
+    margin-top: -40px;
+    position: static;
+}
+.sponsor-img4 {
+    margin-top: 66px;
+    margin-left: 455px;
+}
